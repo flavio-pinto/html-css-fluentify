@@ -230,3 +230,34 @@ h2.big {
 }
 
 /* Structure styles here*/
+#structure {
+  border-top: 1px solid lightgrey;
+  height: 180px;
+  padding-top: 60px;
+  background: #d3d3d3;
+}
+
+.footer-title h2 {
+  margin: 0;
+  padding: 10px;
+}
+
+.footer-visualplan {
+  text-align: right;
+}
+
+.footer-visualplan h3 {
+  display: inline-block;
+  padding-right: 30px;
+  font-weight: normal;
+}
+
+.footer-visualplan span {
+  word-spacing: 50px;
+  padding-right: 30px;
+}
+
+.footer-visualplan span,
+.footer-visualplan span i {
+  text-decoration: underline;
+}
